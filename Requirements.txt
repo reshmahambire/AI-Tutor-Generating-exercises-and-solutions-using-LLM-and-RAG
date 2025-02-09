@@ -1,0 +1,7 @@
+langchain-community
+pymupdf
+scikit-learn
+numpy
+transformers
+sentence-transformers
+torch
